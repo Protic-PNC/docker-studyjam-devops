@@ -1,4 +1,4 @@
-# Docker Sample untuk Pemula
+# Docker Sample For Introduction
 
 Dua app kecil, masing-masing punya `Dockerfile` dan `docker-compose.yml` sendiri.
 
